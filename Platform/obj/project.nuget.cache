@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmwo6SM0XNvy9YR38x6Y83aaNmIcYq1HV184WtcXzuZ4NMEKj/GZelVTrQZdt/yomv1yeCRWOdowGnVia1BxBQ==",
+  "success": true,
+  "projectFilePath": "D:\\sandbox\\myTraning\\Сhapter_12\\middleware_class\\Platform\\Platform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
